@@ -14,6 +14,6 @@ and click [here](http://127.0.0.1:8080/video)
 
 P.S. You should stop all the running docker containers before executing the commands above to prevent possible port conflicts.
 
-P.P.S. The third command takes >=2 minutes depending on computer power.
+P.P.S. The fourth command takes >=2 minutes depending on computer power.
 
 P.P....S. Sometimes the first couple of queries are executed pretty long. Just be aware, it's not forever.
